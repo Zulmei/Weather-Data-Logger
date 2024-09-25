@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -74.1724,
+        "lat": 40.7357
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 290.26,
+        "feels_like": 289.93,
+        "temp_min": 288.79,
+        "temp_max": 291.14,
+        "pressure": 1020,
+        "humidity": 73,
+        "sea_level": 1020,
+        "grnd_level": 1015
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.92,
+        "deg": 262,
+        "gust": 7.15
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1727241129,
+    "sys": {
+        "type": 2,
+        "id": 2003689,
+        "country": "US",
+        "sunrise": 1727261255,
+        "sunset": 1727304526
+    },
+    "timezone": -14400,
+    "id": 5101798,
+    "name": "Newark",
+    "cod": 200
+}
